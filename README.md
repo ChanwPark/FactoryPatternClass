@@ -1,0 +1,2 @@
+# FactoryPatternClass
+FactoryPatternClass
